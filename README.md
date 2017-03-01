@@ -22,7 +22,7 @@ vagrant up
 vagrant ssh
 ```
 
-### Accessing the environment
+### Using the environment
 
 ```bash
 # Create the Swagger API project (do this when creating a new API)
