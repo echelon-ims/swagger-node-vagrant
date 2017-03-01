@@ -1,3 +1,8 @@
+# This .gitignore file is based on the GitHub provided file for Node projects
+
+# Ignore the directory created by Vagrant
+.vagrant
+
 # Logs
 logs
 *.log
