@@ -4,7 +4,7 @@ A portable Vagrant environment for running swagger-node to quickly create APIs.
 
 ## Developer Workflow
 
-### Using the Vagrantfile to spin up an evironment
+### Spinning up a local environment
 
 ```bash
 # 1. Install Vagrant (you can grab the installation for your OS at https://www.vagrantup.com/)
@@ -22,7 +22,7 @@ vagrant up
 vagrant ssh
 ```
 
-### Working inside the environment
+### Accessing the environment
 
 ```bash
 # Create the Swagger API project (do this when creating a new API)
